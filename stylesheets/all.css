@@ -113,3 +113,11 @@ img.app-icon {
 .app-link {
   margin-top: 18px;
 }
+
+.description {
+  background: #cdcdcd;
+}
+
+.description img {
+  max-width: 100%;
+}
