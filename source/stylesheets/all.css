@@ -121,3 +121,7 @@ img.app-icon {
 .description img {
   max-width: 100%;
 }
+
+.fb-like span {
+  vertical-align: baseline !important;
+}
